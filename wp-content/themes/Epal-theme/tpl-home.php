@@ -10,7 +10,6 @@ get_header();
 //      Hàm Lấy Các File Trong Folder sections
 get_template_part('sections/top-header');
 ?>
-
 <?php while (have_posts()) : the_post() ?>
     <?php the_content() ?>
 
