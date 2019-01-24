@@ -47,7 +47,7 @@ if ($primaryNav) :
                 <span class="menu-text">Menu</span>
             </a>
             <a class="logo-main-mobile float-right" href="<?php echo home_url() ?>">
-                <img src="<?php echo plugin_dir_url(__DIR__) . '/images/logo-epal-shop.svg' ?>" alt="">
+                <img src="<?php echo plugin_dir_url(__DIR__) . 'images/logo-epal-shop.svg' ?>" alt="">
             </a>
         </div>
         <div class="show-menu-mobile">
